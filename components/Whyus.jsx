@@ -5,7 +5,7 @@ const Whyus = () => {
   return (
     <>
       <div className="container mt-4 pt-4 mb-4 pb-4" id="about">
-        <h1 className={styles.header}>Why Quecup?</h1>
+        <h1 className={styles.header}>Who are we</h1>
         <hr className={styles.hr} />
         <div className="container mt-4 pt-4">
           <p className={styles.para}><strong>Hey! We’re As Good As New and we’re here to make your life more sustainable, Eco-Friendly and Pocket Friendly!
@@ -15,7 +15,7 @@ const Whyus = () => {
             <strong>We bring together the best thrift stores of this country so that you don’t have to look around and scan hundreds of Instagram pages and probably end up getting disappointed :(
             </strong>
           </p>
-          <p className={styles.para}><strong>Come Save Money and Save the Environment by shopping from us and our lovely affiliates!</strong>
+          <p className={styles.para}><strong>Basically a thrift marketplace where everyone sells and competes equally and fairly, come Save Money and Save the Environment by shopping from us and our lovely affiliates!</strong>
           </p>
         </div>
         {/* <div className="row ml-1 mr-1 mt-4 pt-4">
@@ -95,7 +95,7 @@ const Whyus = () => {
         <div className="container mt-4 pt-4">
           <p className={styles.para}>
             <strong>
-              Explore our exciting new collection which has been handpicked for you because you’re awesome and you deserve it! We’re pretty sure you’ll find something you like :)
+              Explore our exciting new collection which has been handpicked for you because you’re awesome and you deserve it! Get ready to experience a whole new way of thrifting! :)
             </strong>
           </p>
         </div>
