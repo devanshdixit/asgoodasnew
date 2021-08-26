@@ -95,7 +95,7 @@ const Whyus = () => {
         <div className="container mt-4 pt-4">
           <p className={styles.para}>
             <strong>
-              Explore our exciting new collection which has been handpicked for you because you’re awesome and you deserve it! Get ready to experience a whole new way of thrifting! :)
+              Explore our exciting new collection which  which update every week for you because you’re awesome and you deserve it! Get ready to experience a whole new way of thrifting! :)
             </strong>
           </p>
         </div>
