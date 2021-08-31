@@ -7,7 +7,7 @@
 }
 
 .button{
-    background-color: #49a0eb;
+    background-color: #02b7fe;
     margin-bottom: 40px;
     color: white;
     font-size: 1rem;
@@ -18,7 +18,7 @@
     font-family: Inter,sans-serif;
     border: none;
     min-width: 15rem;
-    padding: 1rem 2rem;
+    padding: 1rem 5rem;
     transition: all .5s ease;
     outline: none;
 }

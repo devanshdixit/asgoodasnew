@@ -18,7 +18,7 @@
 .headerlink:hover {
   color: black;
   font-size: 18px;
-  transition-duration: 0.5s;
+  transition: all .5s ease;
 }
 .headercontact {
   color: #767d86;

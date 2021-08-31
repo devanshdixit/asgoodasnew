@@ -24,7 +24,9 @@ const Slider = () => {
             <Col lg={6} className="order-lg-1 pb-4 pt-4">
               <Container>
                 <p className={styles.header}>Do you want to buy eco-friendly and affordable clothes?</p>
-                <Button type="submit" onClick={scrollto} variant="primary" className={styles.button}>Lets Go</Button>
+                <a className={styles.button} href="https://docs.google.com/forms/d/e/1FAIpQLSfCOnPsM_Wi-vpj5zWQ7eUCdP9w98cayt1qA_375TK3P5bSTw/viewform?usp=sf_link" target="_">
+                  Lets Go
+                </a>
               </Container>
             </Col>
           </Row>

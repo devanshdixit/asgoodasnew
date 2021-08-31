@@ -102,12 +102,14 @@ export default function ModalScreen() {
 
     return (
         <section id="contact" className="container" style={{ paddingBottom: "100px", paddingTop: "100px" }}>
-            <h1 className={styles.header}>Drop in your contact details and once we’re live,<br/> we’re gonna make sure you’re the first one to know. <br/> Here’s your first step to living sustainably!</h1>
+            <h1 className={styles.header}>Drop in your contact details and once we’re live,<br /> we’re gonna make sure you’re the first one to know. <br /> Here’s your first step to living sustainably!</h1>
             <hr className={styles.hr} />
             <div className="text-center  ml-1 mr-1 mt-4 pt-4">
-                <Button variant="primary" size="lg">
-                    Signup Here!
-                </Button>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCOnPsM_Wi-vpj5zWQ7eUCdP9w98cayt1qA_375TK3P5bSTw/viewform?usp=sf_link" target="_">
+                    <Button variant="primary" size="lg" style={{ backgroundColor: "#02b7fe" }}>
+                        Signup Here!
+                    </Button>
+                </a>
             </div>
             <Modal
                 show={show}
